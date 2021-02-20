@@ -5,7 +5,7 @@ description: この記事では、Application Gateway 上の Web アプリケー
 services: web-application-firewall
 author: vhorne
 ms.service: web-application-firewall
-ms.date: 12/04/2020
+ms.date: 20/02/2020
 ms.author: victorh
 ms.topic: conceptual
 ms.openlocfilehash: 2de8a47b841a4a5c82aaeb92419ec3d9714268ea
@@ -173,7 +173,7 @@ Microsoft Azure Sentinel は、スケーラブルでクラウドネイティブ�
 
 #### <a name="azure-monitor-workbook-for-waf"></a>WAF の Azure Monitor ブック
 
-このブックを使用すると、複数のフィルター可能なパネルでセキュリティ関連の WAF イベントをカスタムで可視化することができます。 Application Gateway、Front Door、CDN などのすべての WAF の種類と連携でき、WAF の種類や特定の WAF インスタンスに基づいてフィルター処理できます。 ARM テンプレートまたはギャラリー テンプレートを使用してインポートします。 このブックをデプロイするには、[WAF ブック](https://github.com/Azure/Azure-Network-Security/tree/master/Azure%20WAF/Azure%20Monitor%20Workbook)に関するページを参照してください。
+このブックを使用すると、複数のフィルター可能なパネルでセキュリティ関連の WAF イベントをカスタムで可視化することができます。 Application Gateway、Front Door、CDN などのすべての WAF の種類と連携でき、WAF の種類や特定の WAF インスタンスに基づいてフィルター処理できます。 ARM テンプレートまたはギャラリー テンプレートを使用してインポートします。 このブックをデプロイするには、[WAF ブック](https://github.com/Azure/Azure-Network-Security/tree/master/Azure%20WAF/Workbook%20-%20WAF%20Monitor%20Workbook)に関するページを参照してください。
 
 #### <a name="logging"></a>ログ記録
 
